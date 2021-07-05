@@ -17,7 +17,7 @@ Then I connected the circuit as shown in the picture.
 
 In the beginning I reached the Ground and the Power
 
-I connected the resistors with the ground an with the leds 
+I connected the resistors with the ground and with the leds 
 
 Also I connected the leds with Arduino
 
